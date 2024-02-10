@@ -227,10 +227,19 @@ body {
   font-size: 2rem;
   font-weight: lighter;
 }
+.nine a {
+  font-size: 2rem;
+  font-weight: lighter;
+  text-decoration:none
+}
 
 #replay {
   z-index: 3;
   cursor: pointer;
+}
+
+#imagePath {
+  border-radius: 10%;
 }
 
 /* Media Queries */
