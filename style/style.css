@@ -288,6 +288,10 @@ body {
 
   .idea-5 span {
     display: block;
+   
+  }
+  
+  .five .idea-5 {
     font-size: 2rem;
   }
 
