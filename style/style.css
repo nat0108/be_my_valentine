@@ -229,6 +229,7 @@ body {
 }
 .nine a {
   font-size: 2rem;
+  color: black;
   font-weight: lighter;
   text-decoration:none
 }
@@ -305,5 +306,12 @@ body {
   .nine p {
     font-size: 1.5rem;
     font-weight: lighter;
+  }
+
+  .nine a {
+    font-size: 2rem;
+    color: black;
+    font-weight: lighter;
+    text-decoration:none
   }
 }
